@@ -1,5 +1,4 @@
-*{
-
+:root{
   --clr-green:hsl(75, 94%, 57%);
   --clr-white:hsl(0, 0%, 100%);
   --clr-grey-700:hsl(0, 0%, 20%);
@@ -9,7 +8,9 @@
   --fw-normal:400;
   --fw-semibold:600;
   --fw-bold:700;
+}
 
+*{
   margin: 0;
   padding: 0;
   font-family: 'Inter', sans-serif;
